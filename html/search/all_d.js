@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['paragraph_0',['Paragraph',['../structParagraph.html',1,'']]],
+  ['paragraph_2eh_1',['paragraph.h',['../paragraph_8h.html',1,'']]],
+  ['paragraphclone_2',['paragraphClone',['../paragraph_8h.html#aa2258a0240c5cd2e882edc61f5be1cc3',1,'paragraph.c']]],
+  ['paragraphcreate_3',['paragraphCreate',['../paragraph_8h.html#a289132ec76d2503ffb8f292f740af90a',1,'paragraph.c']]],
+  ['paragraphdestroy_4',['paragraphDestroy',['../paragraph_8h.html#ab6822065d0b77bd3eb1b4a91157b0557',1,'paragraph.c']]],
+  ['paragraphprint_5',['paragraphPrint',['../paragraph_8h.html#ac9b7efd5ae93c6f1753c24c1d7c645e0',1,'paragraph.c']]],
+  ['paragraphs_6',['paragraphs',['../structDocument.html#a94084ab8bb899ae11ffc1fd351b7a080',1,'Document']]],
+  ['paragraphwordsappearance_7',['paragraphWordsAppearance',['../paragraph_8h.html#a45686736f1e60feb2c511cb0e410c7fd',1,'paragraph.c']]],
+  ['printc_8',['printc',['../command_8h.html#a722df4815ab4f62184659d942f69db7e',1,'command.c']]],
+  ['printerror_9',['printError',['../utilities_8h.html#addfd1ea1f38708a1f8cee6355329f106',1,'utilities.c']]],
+  ['printinfo_10',['printInfo',['../utilities_8h.html#a2f8ec6024f98de89e6546c421e203ef1',1,'utilities.c']]],
+  ['printl_11',['printl',['../command_8h.html#a8dbef4bdfa76cfab8e87a38ff50aa812',1,'command.c']]],
+  ['printparagraphcentered_12',['printParagraphCentered',['../paragraph_8h.html#aacaabd20de3b643aeccc3707e4bd36b3',1,'paragraph.c']]],
+  ['printparagraphleftaligned_13',['printParagraphLeftAligned',['../paragraph_8h.html#a8901355e87324bdb0ce9dcbc3d0f67dd',1,'paragraph.c']]],
+  ['printsuccess_14',['printSuccess',['../utilities_8h.html#a7dcfc994af55543408cd569d1db238d7',1,'utilities.c']]],
+  ['printtoken_15',['printToken',['../token_8h.html#a529e5ab75efe8ac0224b53a82a64faea',1,'token.c']]],
+  ['printwarning_16',['printWarning',['../utilities_8h.html#aec3ad16d7a0050d401eb51b9a34b8ab5',1,'utilities.c']]],
+  ['processstringtoparagraph_17',['processStringToParagraph',['../paragraph_8h.html#a6102fcdbd79b62266c516208ecc7a71b',1,'paragraph.c']]],
+  ['program_20template_18',['C Program Template',['../md_README.html',1,'']]],
+  ['ptaction_19',['PtAction',['../action_8h.html#a1313971c893d9d9a0d6cd3e080faa876',1,'action.h']]],
+  ['ptlist_20',['PtList',['../list_8h.html#a39f79d75aefe285077489fdab3a43d76',1,'list.h']]],
+  ['ptmap_21',['PtMap',['../map_8h.html#a412c6f1fedbc15a8ed94c923555b8918',1,'map.h']]]
+];
